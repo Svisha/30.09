@@ -1,0 +1,14 @@
+C:\Users\Evgenii\Desktop\Прогаем C#\30.09\bin\Debug\net7.0\30.09.exe
+C:\Users\Evgenii\Desktop\Прогаем C#\30.09\bin\Debug\net7.0\30.09.deps.json
+C:\Users\Evgenii\Desktop\Прогаем C#\30.09\bin\Debug\net7.0\30.09.runtimeconfig.json
+C:\Users\Evgenii\Desktop\Прогаем C#\30.09\bin\Debug\net7.0\30.09.dll
+C:\Users\Evgenii\Desktop\Прогаем C#\30.09\bin\Debug\net7.0\30.09.pdb
+C:\Users\Evgenii\Desktop\Прогаем C#\30.09\obj\Debug\net7.0\30.09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Evgenii\Desktop\Прогаем C#\30.09\obj\Debug\net7.0\30.09.AssemblyInfoInputs.cache
+C:\Users\Evgenii\Desktop\Прогаем C#\30.09\obj\Debug\net7.0\30.09.AssemblyInfo.cs
+C:\Users\Evgenii\Desktop\Прогаем C#\30.09\obj\Debug\net7.0\30.09.csproj.CoreCompileInputs.cache
+C:\Users\Evgenii\Desktop\Прогаем C#\30.09\obj\Debug\net7.0\30.09.dll
+C:\Users\Evgenii\Desktop\Прогаем C#\30.09\obj\Debug\net7.0\refint\30.09.dll
+C:\Users\Evgenii\Desktop\Прогаем C#\30.09\obj\Debug\net7.0\30.09.pdb
+C:\Users\Evgenii\Desktop\Прогаем C#\30.09\obj\Debug\net7.0\30.09.genruntimeconfig.cache
+C:\Users\Evgenii\Desktop\Прогаем C#\30.09\obj\Debug\net7.0\ref\30.09.dll
